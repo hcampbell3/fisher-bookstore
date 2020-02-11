@@ -18,6 +18,5 @@ export default class App extends Component {
         <Routes />
       </div>
     );
-    //return <div>Fisher Bookstore</div>
   }
 };
